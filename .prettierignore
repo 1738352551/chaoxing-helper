@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+src-tauri
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/.rs
+**/.git
+**/.svn
+**/.hg
